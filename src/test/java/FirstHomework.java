@@ -37,7 +37,10 @@ public class FirstHomework {
         WebElement acceptBtn = browserWindow.findElement(ACCEPT_COOKIES_BTN);
         acceptBtn.click();
 
-//         browserWindow.findElements(ACCEPT_COOKIES_BTN).click();
+
     }
+
+
+
 
 }

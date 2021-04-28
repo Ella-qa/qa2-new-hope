@@ -34,5 +34,7 @@ public class FirstTvNetTest {
          acceptBtn.click();
 
 //         browserWindow.findElements(ACCEPT_COOKIES_BTN).click();
+
+        //comment for GIT
     }
 }
